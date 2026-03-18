@@ -10,6 +10,6 @@ namespace CompanyCodesApi.Application.DTOs.Codes
     {
         public string Name { get; set; } = null!;
         public string? Description { get; set; }
-        public int EnterpriseID { get; set; }
+        public int EnterpriseId { get; set; }
     }
 }

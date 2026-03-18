@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{524A7267-DDD6-0850-8CA6-5298ACD44BC1}|CompanyCodesApi.Application\\CompanyCodesApi.Application.csproj|c:\\users\\gabriela\\documents\\pruebastecnicas\\companycodesapi\\companycodesapi.application\\validators\\codes\\createcodedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524A7267-DDD6-0850-8CA6-5298ACD44BC1}|CompanyCodesApi.Application\\CompanyCodesApi.Application.csproj|solutionrelative:companycodesapi.application\\validators\\codes\\createcodedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059FE9EF-F051-B1EB-CFEC-C54CC7DC3859}|CompanyCodesApi.Domain\\CompanyCodesApi.Domain.csproj|c:\\users\\gabriela\\documents\\pruebastecnicas\\companycodesapi\\companycodesapi.domain\\entities\\code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059FE9EF-F051-B1EB-CFEC-C54CC7DC3859}|CompanyCodesApi.Domain\\CompanyCodesApi.Domain.csproj|solutionrelative:companycodesapi.domain\\entities\\code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524A7267-DDD6-0850-8CA6-5298ACD44BC1}|CompanyCodesApi.Application\\CompanyCodesApi.Application.csproj|c:\\users\\gabriela\\documents\\pruebastecnicas\\companycodesapi\\companycodesapi.application\\dtos\\codes\\createcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524A7267-DDD6-0850-8CA6-5298ACD44BC1}|CompanyCodesApi.Application\\CompanyCodesApi.Application.csproj|solutionrelative:companycodesapi.application\\dtos\\codes\\createcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524A7267-DDD6-0850-8CA6-5298ACD44BC1}|CompanyCodesApi.Application\\CompanyCodesApi.Application.csproj|c:\\users\\gabriela\\documents\\pruebastecnicas\\companycodesapi\\companycodesapi.application\\dtos\\enterprises\\enterpriseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524A7267-DDD6-0850-8CA6-5298ACD44BC1}|CompanyCodesApi.Application\\CompanyCodesApi.Application.csproj|solutionrelative:companycodesapi.application\\dtos\\enterprises\\enterpriseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524A7267-DDD6-0850-8CA6-5298ACD44BC1}|CompanyCodesApi.Application\\CompanyCodesApi.Application.csproj|c:\\users\\gabriela\\documents\\pruebastecnicas\\companycodesapi\\companycodesapi.application\\dtos\\enterprises\\createenterprisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524A7267-DDD6-0850-8CA6-5298ACD44BC1}|CompanyCodesApi.Application\\CompanyCodesApi.Application.csproj|solutionrelative:companycodesapi.application\\dtos\\enterprises\\createenterprisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524A7267-DDD6-0850-8CA6-5298ACD44BC1}|CompanyCodesApi.Application\\CompanyCodesApi.Application.csproj|c:\\users\\gabriela\\documents\\pruebastecnicas\\companycodesapi\\companycodesapi.application\\validators\\enterprises\\createenterprisedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524A7267-DDD6-0850-8CA6-5298ACD44BC1}|CompanyCodesApi.Application\\CompanyCodesApi.Application.csproj|solutionrelative:companycodesapi.application\\validators\\enterprises\\createenterprisedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524A7267-DDD6-0850-8CA6-5298ACD44BC1}|CompanyCodesApi.Application\\CompanyCodesApi.Application.csproj|c:\\users\\gabriela\\documents\\pruebastecnicas\\companycodesapi\\companycodesapi.application\\validators\\enterprises\\updateenterprisedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524A7267-DDD6-0850-8CA6-5298ACD44BC1}|CompanyCodesApi.Application\\CompanyCodesApi.Application.csproj|solutionrelative:companycodesapi.application\\validators\\enterprises\\updateenterprisedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585CBE56-978C-E26C-AB4F-5DBC9379433B}|CompanyCodesApi.Api\\CompanyCodesApi.Api.csproj|c:\\users\\gabriela\\documents\\pruebastecnicas\\companycodesapi\\companycodesapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585CBE56-978C-E26C-AB4F-5DBC9379433B}|CompanyCodesApi.Api\\CompanyCodesApi.Api.csproj|solutionrelative:companycodesapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524A7267-DDD6-0850-8CA6-5298ACD44BC1}|CompanyCodesApi.Application\\CompanyCodesApi.Application.csproj|c:\\users\\gabriela\\documents\\pruebastecnicas\\companycodesapi\\companycodesapi.application\\validators\\codes\\updatecodedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524A7267-DDD6-0850-8CA6-5298ACD44BC1}|CompanyCodesApi.Application\\CompanyCodesApi.Application.csproj|solutionrelative:companycodesapi.application\\validators\\codes\\updatecodedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyCodesApi.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Api\\Program.cs",
+              "RelativeToolTip": "CompanyCodesApi.Api\\Program.cs",
+              "ViewState": "AgIAABkAAABAMzMzMzMrwCQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:49:18.158Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Code.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Domain\\Entities\\Code.cs",
+              "RelativeDocumentMoniker": "CompanyCodesApi.Domain\\Entities\\Code.cs",
+              "ToolTip": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Domain\\Entities\\Code.cs",
+              "RelativeToolTip": "CompanyCodesApi.Domain\\Entities\\Code.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T22:09:28.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnterpriseResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Application\\DTOs\\Enterprises\\EnterpriseResponseDto.cs",
+              "RelativeDocumentMoniker": "CompanyCodesApi.Application\\DTOs\\Enterprises\\EnterpriseResponseDto.cs",
+              "ToolTip": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Application\\DTOs\\Enterprises\\EnterpriseResponseDto.cs",
+              "RelativeToolTip": "CompanyCodesApi.Application\\DTOs\\Enterprises\\EnterpriseResponseDto.cs",
+              "ViewState": "AgIAAAkAAABAMzMzMzM7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T22:08:51.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateEnterpriseDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Application\\Validators\\Enterprises\\CreateEnterpriseDtoValidator.cs",
+              "RelativeDocumentMoniker": "CompanyCodesApi.Application\\Validators\\Enterprises\\CreateEnterpriseDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Application\\Validators\\Enterprises\\CreateEnterpriseDtoValidator.cs",
+              "RelativeToolTip": "CompanyCodesApi.Application\\Validators\\Enterprises\\CreateEnterpriseDtoValidator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:35:59.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateCodeDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Application\\Validators\\Codes\\CreateCodeDtoValidator.cs",
+              "RelativeDocumentMoniker": "CompanyCodesApi.Application\\Validators\\Codes\\CreateCodeDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Application\\Validators\\Codes\\CreateCodeDtoValidator.cs",
+              "RelativeToolTip": "CompanyCodesApi.Application\\Validators\\Codes\\CreateCodeDtoValidator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAewBUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:25:24.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateEnterpriseDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Application\\Validators\\Enterprises\\UpdateEnterpriseDtoValidator.cs",
+              "RelativeDocumentMoniker": "CompanyCodesApi.Application\\Validators\\Enterprises\\UpdateEnterpriseDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Application\\Validators\\Enterprises\\UpdateEnterpriseDtoValidator.cs",
+              "RelativeToolTip": "CompanyCodesApi.Application\\Validators\\Enterprises\\UpdateEnterpriseDtoValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwPQoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:53:31.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCodeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Application\\DTOs\\Codes\\CreateCodeDto.cs",
+              "RelativeDocumentMoniker": "CompanyCodesApi.Application\\DTOs\\Codes\\CreateCodeDto.cs",
+              "ToolTip": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Application\\DTOs\\Codes\\CreateCodeDto.cs",
+              "RelativeToolTip": "CompanyCodesApi.Application\\DTOs\\Codes\\CreateCodeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:28:35.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateEnterpriseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Application\\DTOs\\Enterprises\\CreateEnterpriseDto.cs",
+              "RelativeDocumentMoniker": "CompanyCodesApi.Application\\DTOs\\Enterprises\\CreateEnterpriseDto.cs",
+              "ToolTip": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Application\\DTOs\\Enterprises\\CreateEnterpriseDto.cs",
+              "RelativeToolTip": "CompanyCodesApi.Application\\DTOs\\Enterprises\\CreateEnterpriseDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:37:27.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateCodeDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Application\\Validators\\Codes\\UpdateCodeDtoValidator.cs",
+              "RelativeDocumentMoniker": "CompanyCodesApi.Application\\Validators\\Codes\\UpdateCodeDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Gabriela\\Documents\\PruebasTecnicas\\CompanyCodesApi\\CompanyCodesApi.Application\\Validators\\Codes\\UpdateCodeDtoValidator.cs",
+              "RelativeToolTip": "CompanyCodesApi.Application\\Validators\\Codes\\UpdateCodeDtoValidator.cs",
+              "ViewState": "AgIAAAgAAAAwMzMzMzM7wAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:35:07.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
